@@ -1,1 +1,1 @@
-A basic password generator in python
+A basic password generator in python using tkinter
